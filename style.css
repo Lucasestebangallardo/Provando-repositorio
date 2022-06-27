@@ -29,6 +29,38 @@ header {
     
 }
 
+ #logo{
+    /* transformacion logo */
+    transition-property:1s;
+    transition-duration:1s;
+ }
+   
+ #logo:hover {
+    transform: scale(2);
+}
+
+/* animacion titulo */
+.animaciones:hover{
+    animation: changeColor 4s;
+}
+
+@keyframes changeColor {
+    0%{
+        background-color: violet;
+    }
+    15%{
+        border-radius: 50%;
+    }
+    25%{
+        background-color: turquoise;
+    }
+    50%{
+        background-color: blue;
+    }
+    100%{
+        background-color: rgb(124, 206, 47);
+    }
+}
 .padredepagina {
     display: inline-block;
     width: 160px;
