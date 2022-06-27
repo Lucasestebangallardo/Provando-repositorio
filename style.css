@@ -1,0 +1,364 @@
+html {
+    font-family: 'Montserrat', sans-serif;
+ 
+}
+
+ *{
+    margin: 0;
+    padding: 0;
+}
+
+#logo {
+    display: block ;
+    width: 65px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+header {
+    background-color: #364552;
+    text-align:center;
+    height: 100px;   
+}
+
+
+.pagina {
+    color: white;
+    text-decoration: none;
+    margin: 40px;
+    
+}
+
+.padredepagina {
+    display: inline-block;
+    width: 160px;
+    
+}
+
+.titulo {
+    font-size: 25px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+h1{
+    background-color: rgb(156, 165, 165);
+    color: black;
+}
+
+h2{
+    background-color: rgb(156, 165, 165);
+    color: black;
+    text-align: start;
+    padding: 20px;
+}
+
+.entrenamiento{
+    font-size: 25px;
+    background-color: aliceblue;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    border: double 2px black;
+}
+
+.primerasimagen{
+    width: 500px;
+    margin: 5px
+    
+}
+
+.volver{
+    background-color: #364552;
+    margin: auto;
+    padding: 10px;
+
+}
+
+.ir {
+    text-decoration: none;
+    color: white;
+}
+
+
+#logo2 {
+    display: block ;
+    width: 65px;
+   
+}
+
+footer{
+    background-color: #364552;
+    color: white;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: end;
+
+}
+
+/* CONOCENOS */
+
+#logo3 {
+    display: block ;
+    width: 65px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.pagina2 {
+    color: white;
+    text-decoration: none;
+    margin: 40px; 
+}
+
+.padredepagina2 {
+    display: inline-block;
+    width: 160px;
+    
+}
+
+.tituloconocenos {
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: black;
+}
+
+.parrafo1 {
+    font-size: 20px;
+    text-align: center;
+    background-color: aliceblue;
+    color: black;
+}
+
+.imagenconocenos {
+    width: 900px;
+    height: 600px;
+    margin-left: 250px;
+}
+
+.segundotitulo2 {
+    font-size: 20px;
+    color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.parrafo2 {
+    background-color: aliceblue;
+    color: black;
+    margin-left: 10px;
+    text-align: start;
+  
+}
+
+.compromisos {
+    background-color: aliceblue;
+    color: black;
+    margin: 25px;
+    padding: 0;
+
+}
+
+#logo4 {
+    display: block ;
+    width: 65px;
+    
+}
+
+/* ACTIVIDADES */
+
+#logo5 {
+    display: block ;
+    width: 65px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.pagina3 {
+    color: white;
+    text-decoration: none;
+    margin: 40px; 
+
+}
+
+.padredepagina3 {
+    display: inline-block;
+    width: 160px;
+}
+
+.tituloactividades {
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: black;
+}
+
+.actividades3 {
+    font-size: 20px;
+    color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.tituloact {
+    font-size: 25px;
+    background-color: aliceblue;
+    color: black;
+    margin: 3px;
+    padding: 3px;
+    display: flex;
+    justify-content: center;
+    border: double 2px black;
+}
+
+.explicando {
+    background-color: aliceblue;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.explicandoimg{
+    width: 500px;
+    margin-left: 450px;
+}
+
+#logo6 {
+    display: block ;
+    width: 65px;
+    
+}
+
+/* SERVICIOS */
+
+#logo7 {
+    display: block ;
+    width: 65px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.padredepagina4 {
+    display: inline-block;
+    width: 160px;
+}
+
+.pagina4 {
+    color: white;
+    text-decoration: none;
+    margin: 40px; 
+
+}
+
+.tituloservicios {
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: black;
+}
+
+.actividadesycostos {
+    font-size: 20px;
+    color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.tituloplan {
+    font-size: 25px;
+    background-color: aliceblue;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    border: double 2px black;
+}
+
+.costosimg {
+    width: 350px;
+    height: 350px;
+}
+
+#logo8 {
+    display: block ;
+    width: 65px;
+    
+}
+
+/* CONTACTO */
+
+#logo9 {
+    display: block ;
+    width: 65px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+
+
+
+.padredepagina5 {
+    display: inline-block;
+    width: 160px;
+}
+
+.pagina5 {
+    color: white;
+    text-decoration: none;
+    margin: 40px; 
+
+}
+
+.titulocontacto {
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: black;
+}
+
+.contacto2 {
+    font-size: 25px;
+    background-color: aliceblue;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    border: double 2px black;
+}
+
+.formulario{
+    
+    margin:20px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.boton{
+    margin: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: end;
+}
+
+.contactanos{
+    margin: 20px;
+    padding: 15px;
+    background-color: aliceblue;
+    color: black;
+    text-align: center;
+}
+#logo10 {
+    display: block ;
+    width: 65px;
+    
+}
